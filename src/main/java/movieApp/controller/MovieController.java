@@ -1,6 +1,7 @@
 package movieApp.controller;
 
 
+import movieApp.exception.TitleException;
 import movieApp.model.Movie;
 import movieApp.model.Review;
 import movieApp.services.MovieService;

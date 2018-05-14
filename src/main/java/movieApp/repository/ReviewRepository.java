@@ -1,4 +1,4 @@
-package movieApp.repo;
+package movieApp.repository;
 
 import movieApp.model.Review;
 import org.springframework.data.mongodb.repository.MongoRepository;

@@ -3,7 +3,7 @@ package movieApp.services;
 import movieApp.collectors.collectors;
 import movieApp.model.Movie;
 import movieApp.model.Review;
-import movieApp.repo.MovieRepository;
+import movieApp.repository.MovieRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

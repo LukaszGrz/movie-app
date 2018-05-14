@@ -1,7 +1,7 @@
 package movieApp.seeder;
 
 import movieApp.model.Movie;
-import movieApp.repo.MovieRepository;
+import movieApp.repository.MovieRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

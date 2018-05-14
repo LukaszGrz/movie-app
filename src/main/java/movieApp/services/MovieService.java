@@ -1,7 +1,7 @@
 package movieApp.services;
 
 import movieApp.model.Movie;
-import movieApp.repo.MovieRepository;
+import movieApp.repository.MovieRepository;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
