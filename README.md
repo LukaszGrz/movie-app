@@ -6,11 +6,11 @@ Simple Java Rest Api application using Spring Boot, MongoDB and docker-compose
 How to start the application:
 
 - download project from GitHub
-- using Power Shell (or other docker bash) go to directory where "Dockerfile" is allocated
+- using Power Shell (or other bash/CMD/Docker) go to directory where "Dockerfile" is allocated
 - first build project by typing- " docker build -t movie . " 
 - then build application by- " docker-compose up "
 
-Application will start on your localhost:8088
+Application will start on localhost:8088
 
 
 By using endpoints you are able to :
