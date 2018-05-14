@@ -21,6 +21,7 @@ localhost:8088/movies/all/
 2./ add new movie to the DB
 localhost:8088/movies
 body needed, below example jason:
+
     {
         "title": "TestMovie",
         "ratings": 1.0,
@@ -34,6 +35,7 @@ localhost:8088/movies/id_movie
 4./ add review to movie
 localhost:8088/reviews/id_movie/addReview
 body needed, below example jason:
+
     {
         "description": "Best film...."
     }
