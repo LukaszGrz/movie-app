@@ -2,6 +2,11 @@
 
 Simple Java Rest Api application using Spring Boot, MongoDB and docker-compose
 
+Requirements:
+
+- Java 1.8 or latest
+- MongoDb installed
+- Docker Container
 
 How to start the application:
 
